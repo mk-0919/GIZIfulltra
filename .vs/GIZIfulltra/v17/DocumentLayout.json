@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\owner\\projects\\GIZIfulltra\\GIZIfulltra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09F5BA2F-67BD-45C9-5364-A61BB2AF2F99}|Assembly-CSharp.csproj|C:\\Users\\owner\\projects\\GIZIfulltra\\GIZIfulltra\\assets\\scripts\\dashboardoverlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F5BA2F-67BD-45C9-5364-A61BB2AF2F99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dashboardoverlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F5BA2F-67BD-45C9-5364-A61BB2AF2F99}|Assembly-CSharp.csproj|c:\\users\\owner\\projects\\gizifulltra\\gizifulltra\\assets\\scripts\\get_threepoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F5BA2F-67BD-45C9-5364-A61BB2AF2F99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\get_threepoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F5BA2F-67BD-45C9-5364-A61BB2AF2F99}|Assembly-CSharp.csproj|c:\\users\\owner\\projects\\gizifulltra\\gizifulltra\\assets\\scripts\\poseserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F5BA2F-67BD-45C9-5364-A61BB2AF2F99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\poseserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F5BA2F-67BD-45C9-5364-A61BB2AF2F99}|Assembly-CSharp.csproj|C:\\Users\\owner\\projects\\GIZIfulltra\\GIZIfulltra\\assets\\scripts\\follow_threepoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F5BA2F-67BD-45C9-5364-A61BB2AF2F99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\follow_threepoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F5BA2F-67BD-45C9-5364-A61BB2AF2F99}|Assembly-CSharp.csproj|C:\\Users\\owner\\projects\\GIZIfulltra\\GIZIfulltra\\assets\\scripts\\easyopenvrutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F5BA2F-67BD-45C9-5364-A61BB2AF2F99}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\easyopenvrutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardOverlay.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\projects\\GIZIfulltra\\GIZIfulltra\\Assets\\Scripts\\DashboardOverlay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DashboardOverlay.cs",
+              "ToolTip": "C:\\Users\\owner\\projects\\GIZIfulltra\\GIZIfulltra\\Assets\\Scripts\\DashboardOverlay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DashboardOverlay.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowCAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:38:23.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PoseServer.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\projects\\GIZIfulltra\\GIZIfulltra\\Assets\\Scripts\\PoseServer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PoseServer.cs",
+              "ToolTip": "C:\\Users\\owner\\projects\\GIZIfulltra\\GIZIfulltra\\Assets\\Scripts\\PoseServer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PoseServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:28:14.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EasyOpenVRUtil.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\projects\\GIZIfulltra\\GIZIfulltra\\Assets\\Scripts\\EasyOpenVRUtil.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EasyOpenVRUtil.cs",
+              "ToolTip": "C:\\Users\\owner\\projects\\GIZIfulltra\\GIZIfulltra\\Assets\\Scripts\\EasyOpenVRUtil.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EasyOpenVRUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:15:18.524Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Follow_threePoints.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\projects\\GIZIfulltra\\GIZIfulltra\\Assets\\Scripts\\Follow_threePoints.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Follow_threePoints.cs",
+              "ToolTip": "C:\\Users\\owner\\projects\\GIZIfulltra\\GIZIfulltra\\Assets\\Scripts\\Follow_threePoints.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Follow_threePoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:15:08.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Get_ThreePoints.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\projects\\GIZIfulltra\\GIZIfulltra\\Assets\\Scripts\\Get_ThreePoints.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Get_ThreePoints.cs",
+              "ToolTip": "C:\\Users\\owner\\projects\\GIZIfulltra\\GIZIfulltra\\Assets\\Scripts\\Get_ThreePoints.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Get_ThreePoints.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:02:24.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
